@@ -1,0 +1,1 @@
+The bundled demo_training_data.csv contains synthetic, invented feature rows for demonstrating the app pipeline only. It is not sourced from real benign or malicious executables and is not suitable for making detection-accuracy claims.
